@@ -1,0 +1,4 @@
+boto3
+requests
+python-dotenv
+pip3 install RPi.GPIO
