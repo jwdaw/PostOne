@@ -4,3 +4,6 @@ PostOne is a Smart Mailbox. When the mailbox door opens, an image is taken of th
 
 ## AWS
 ![AWS Diagram](awsDiagram.svg "AWS Diagram")
+
+## CAD Model
+![CAD Model](MailBoxAssembly.gif)
